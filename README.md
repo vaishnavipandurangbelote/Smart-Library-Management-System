@@ -1,19 +1,19 @@
 # 📚 Smart Library Management System
 
-\<p align="center">
-&#x20; \<strong>📖 Simplifying Library Management Through Technology\</strong>
-&#x20; \<br>
-&#x20; A Full-Stack Web Application Powered by Flask REST API and SQLite
-\</p>
+<p align="center">
+  <strong>📖 Simplifying Library Management Through Technology</strong>
+  <br>
+  A Full-Stack Web Application Powered by Flask REST API and SQLite
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Flask-REST%20API-black?logo=flask&logoColor=white](https://img.shields.io/badge/Flask-REST%20API-black?logo=flask\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-Styling-blue?logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite\&logoColor=white)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-REST%20API-black?logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+</p>
 
 ---
 
@@ -195,4 +195,10 @@ Developed as a Full-Stack Flask REST API project using Python, Flask, HTML, CSS,
 
 ---
 
-\<p align="center">   \<strong>💻 Designed & Developed by Vaishnavi Pandurang Belote\</strong>   \<br>   \<sub>Smart Library Management System | Flask REST API Project\</sub>   \<br>\<br>   ⭐ If you find this project interesting, consider giving it a star! \</p>
+<p align="center">
+  <strong>💻 Designed & Developed by Vaishnavi Pandurang Belote</strong>
+  <br>
+  <sub>Smart Library Management System | Flask REST API Project</sub>
+  <br><br>
+  ⭐ If you find this project interesting, consider giving it a star!
+</p>
