@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Library Management System</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header class="header">
+            <h1>📚 Smart Library Management System</h1>
+            <p class="subtitle">
+               
+            </p>
+        </header>
+
+        <!-- Add Book Form -->
+        <div class="card">
+
+            <h2>Add New Book</h2>
+
+            <input type="text" id="title" placeholder="Enter Book Title">
+
+            <input type="text" id="author" placeholder="Enter Author Name">
+
+            <input type="text" id="category" placeholder="Enter Book Category">
+
+            <button onclick="addBook()">➕ Add Book</button>
+
+        </div>
+
+        <!-- Book Records -->
+        <div class="card">
+
+            <h2>Library Book Records</h2>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+                        <th>ID</th>
+                        <th>Book Title</th>
+                        <th>Author</th>
+                        <th>Category</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+
+                </thead>
+
+                <tbody id="bookTable">
+
+                    <!-- Books will appear here -->
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <footer class="footer">
+            <p></p>
+        </footer>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+
+</body>
+
+</html>
